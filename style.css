@@ -1,0 +1,40 @@
+.heading {
+    background-color: rgb(127, 198, 239);
+    width : 100%;
+    top:0%;
+    position: absolute;
+}
+
+.headingText {
+    color: black;
+}
+
+#bedRoomBtn {
+    font-size: 25px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+#tvBtn {
+    font-size: 25px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+#deskBtn {
+    font-size: 25px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+#kitchenBtn {
+    font-size: 25px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+#couchBtn {
+    font-size: 25px;
+    width: 300px;
+    border-radius: 25px;
+}
